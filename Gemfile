@@ -9,7 +9,7 @@ gem 'activerecord', "~> 6.0"
 gem 'ruby-progressbar'
 gem 'rspec-rerun'
 gem 'rspec-legacy_formatters'
-gem 'rubocop'
+gem 'rubocop', '>= 1.26.1'
 gem 'rubocop-rake'
 gem 'rubocop-rspec'
 
