@@ -10,8 +10,8 @@ gem 'ruby-progressbar'
 gem 'rspec-rerun'
 gem 'rspec-legacy_formatters'
 gem 'rubocop'
-gem 'rubocop-rake'
-gem 'rubocop-rspec'
+gem 'rubocop-rake', '>= 0.7.0'
+gem 'rubocop-rspec', '>= 3.5.0'
 
 gem 'mysql2', group: :mysql
 gem 'sqlite3'
