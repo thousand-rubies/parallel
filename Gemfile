@@ -5,7 +5,7 @@ gemspec
 gem 'bump'
 gem 'rake'
 gem 'rspec'
-gem 'activerecord', "~> 6.0"
+gem 'activerecord', '~> 7.1', '>= 7.1.5.2'
 gem 'ruby-progressbar'
 gem 'rspec-rerun'
 gem 'rspec-legacy_formatters'
